@@ -1,0 +1,6 @@
+# Archivos generados por la ejecución del script — NO subir
+# (configuration.xml puede contener la clave de producto)
+setup.exe
+configuration.xml
+quitar.xml
+*.log

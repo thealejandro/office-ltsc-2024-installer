@@ -1,0 +1,2 @@
+# El .bat debe conservar CRLF y su codificacion OEM 850 tal cual
+*.bat -text
